@@ -6,8 +6,6 @@ module.exports = {
     'Abhi Venkata Sri Krishna Devarayalu, Software Developer, Software Engineer, Generative AI, RAG, AWS, Java Developer, Application Developer, Montefiore Einstein, George Mason University, GMU',
   siteUrl: 'http://abhi-742.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Abhi Venkata Sri Krishna Devarayalu Anumanchi',
   location: 'Fairfax, Virginia',
   email: 'avsk742@gmail.com',
