@@ -1,6 +1,6 @@
 ---
 date: '2019-01-30'
-title: 'Sample Project'
+title: 'Encrypted Cloud File Storage'
 github: ''
 external: ''
 tech:

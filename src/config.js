@@ -1,16 +1,16 @@
 module.exports = {
-  siteTitle: 'Abhi Venkata Sri Krishna Devarayalu Anumanchi | Software Developer',
+  siteTitle: 'Abhi Venkata Sri Krishna Devarayalu Anumanchi | Software Engineer',
   siteDescription:
-    ' Abhi Venkata Sri Krishna Devarayalu Anumanchi pursuing a Masters degree in Computer Science from George Mason University',
+    'Abhi Venkata Sri Krishna Devarayalu Anumanchi is a Software Engineer building Generative AI, cloud-native, and full-stack software. M.S. in Computer Science from George Mason University and 4x AWS Certified.',
   siteKeywords:
-    'Abhi Venkata Sri Krishna Devarayalu, Software Developer, Software Engineer, Competitive Programmer, Java Developer, Applicatoin Developer, George Mason University, GMU, 1Stop.ai',
+    'Abhi Venkata Sri Krishna Devarayalu, Software Developer, Software Engineer, Generative AI, RAG, AWS, Java Developer, Application Developer, Montefiore Einstein, George Mason University, GMU',
   siteUrl: 'http://abhi-742.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Abhi Venkata Sri Krishna Devarayalu Anumanchi',
-  location: 'George Mason University, Fairfax',
-  email: 'aanumanc@gmu.edu',
+  location: 'Fairfax, Virginia',
+  email: 'avsk742@gmail.com',
   github: 'https://github.com/ABHI-742',
 
   socialMedia: [
@@ -21,7 +21,7 @@ module.exports = {
 
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/a-v-s-k-devarayalu-anumanchi-559323129/',
+      url: 'https://www.linkedin.com/in/devarayalu-anumanchi/',
     },
   ],
 

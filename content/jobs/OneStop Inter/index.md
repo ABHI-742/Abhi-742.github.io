@@ -1,5 +1,6 @@
 ---
-Date: '2020-11-01'
+date: '2021-11-01'
+Date: '2021-11-01'
 title: 'Web Development Intern'
 company: '1Stop.ai- Raise Digital'
 range: 'November 2021 - January 2022'
