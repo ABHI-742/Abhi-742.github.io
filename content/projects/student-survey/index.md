@@ -1,7 +1,7 @@
 ---
 date: '2024-12-01'
 title: 'Full-Stack Student Survey Application'
-github: ''
+github: 'https://github.com/ABHI-742/Full-Stack-Student-Survey-Application'
 external: ''
 tech:
   - Angular

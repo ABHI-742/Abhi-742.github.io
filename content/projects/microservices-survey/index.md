@@ -1,7 +1,7 @@
 ---
 date: '2024-11-01'
 title: 'Microservices-Based Survey Application'
-github: ''
+github: 'https://github.com/ABHI-742/studentmicroservice'
 external: ''
 tech:
   - Spring Boot
