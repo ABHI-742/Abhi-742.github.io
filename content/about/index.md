@@ -24,12 +24,10 @@ skills:
   - Power BI / Copilot Studio
 ---
 
-I'm a software engineer with experience across Generative AI, backend microservices, and cloud infrastructure. I hold a Master's in Computer Science from [George Mason University](https://www.gmu.edu/) (GPA 3.77) and a B.Tech in Computer Science from [Malla Reddy Engineering College](https://mrec.ac.in/) (CGPA 8.53).
+Hey Hi there! I got started with programming in my freshman year at [MallaReddy Engineering College](https://mrec.ac.in/), where I completed my Bachelor's in Computer Science and Engineering (2019–2023) with a CGPA of 8.53.
 
-At Montefiore Einstein, I build analytics and automation for workforce and physician compensation: Power BI dashboards for executives, Copilot Studio agents that generate reports on demand, and an Excel-to-Workday pipeline that cut processing time by 70%.
+I then earned my Master's in Computer Science from [George Mason University](https://www.gmu.edu/), Fairfax (2023–2025), with a GPA of 3.77.
 
-Before that, at Mars Restoration, I built a production AI assistant on Anthropic Claude with 33 tools, a RAG pipeline over encrypted enterprise data, and a 16-service backend on AWS ECS Fargate.
+Today I build production software across Generative AI, cloud, and full-stack development: agentic assistants on Anthropic Claude, RAG pipelines with vector search, microservices on AWS, and data and automation tools for healthcare operations. I'm **4× AWS Certified** (Cloud Practitioner, Developer, Solutions Architect Associate, DevOps Professional).
 
-I'm AWS Certified as a Cloud Practitioner, Developer – Associate, Solutions Architect – Associate, and DevOps Engineer – Professional.
-
-Technologies I work with:
+Here are a few technologies I've been working with recently:
