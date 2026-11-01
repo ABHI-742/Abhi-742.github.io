@@ -4,7 +4,7 @@ module.exports = {
     'Abhi Venkata Sri Krishna Devarayalu Anumanchi is a Software Engineer building Generative AI, cloud-native, and full-stack software. M.S. in Computer Science from George Mason University and 4x AWS Certified.',
   siteKeywords:
     'Abhi Venkata Sri Krishna Devarayalu, Software Developer, Software Engineer, Generative AI, RAG, AWS, Java Developer, Application Developer, Montefiore Einstein, George Mason University, GMU',
-  siteUrl: 'http://abhi-742.github.io/',
+  siteUrl: 'https://abhi-742.github.io',
   siteLanguage: 'en_US',
   name: 'Abhi Venkata Sri Krishna Devarayalu Anumanchi',
   location: 'Fairfax, Virginia',
@@ -21,6 +21,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/devarayalu-anumanchi/',
     },
+    {
+      name: 'LeetCode',
+      url: 'https://leetcode.com/u/Abhi_krishna742/',
+    },
   ],
 
   navLinks: [
@@ -31,6 +35,10 @@ module.exports = {
     {
       name: 'Experience',
       url: '/#jobs',
+    },
+    {
+      name: 'Certifications',
+      url: '/#certifications',
     },
     {
       name: 'Projects',

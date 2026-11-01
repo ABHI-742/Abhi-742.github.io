@@ -45,6 +45,11 @@ const Head = ({ title, description, image }) => {
       <meta property="og:image" content={seo.image} />
       <meta property="og:url" content={seo.url} />
       <meta property="og:type" content="website" />
+
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:title" content={seo.title} />
+      <meta name="twitter:description" content={seo.description} />
+      <meta name="twitter:image" content={seo.image} />
     </Helmet>
   );
 };
